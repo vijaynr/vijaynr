@@ -1,10 +1,10 @@
 ![cover](https://github.com/vijaynr/vijaynr/blob/main/Gitihub%20Cover%20Header.png)
 
-I'm a Software engineer, curious about solving problems (and sometimes creating problems). Currently, I'm exploring various technologies across the stack ranging from Angular, Java, Spring, PostgreSQL etc. I've also dabbled in application development on macOS and Windows for a while using Python, Objective C/C++ and C#. Besides work, you can see my doodling and scribbling in my notebook or tablet.
+I'm a Software engineer curious about solving problems (and sometimes creating problems) - who is currently exploring and learning to work with various technologies across the stack like Angular, Java, Spring, PostgreSQL etc. I've also dabbled in desktop application development for a while using Python, Objective C/C++ and C#. Besides work, you can see my doodling and scribbling in my notebook or tablet.
 
-I try to blog occasionally. Read it [here](https://vijaynr.github.io).
+I do try to blog occasionally. You can read it [here](https://vijaynr.github.io).
 
-### You can find me here 🔍
+### You can also find me on 🔍
 - [LinkedIn](https://www.linkedin.com/in/vijayasankarr/)
 - [Twitter](https://twitter.com/vjaynr)
 
